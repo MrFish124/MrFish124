@@ -1,0 +1,5 @@
+- 👋 Hello I'm MrFish124
+- 🌱 I’m currently learning java 
+- 👀 I’m interested programing and
+- 💜 I from Poland 
+- 📫 How to reach me: ---
